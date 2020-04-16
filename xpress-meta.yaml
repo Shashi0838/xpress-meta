@@ -69,4 +69,5 @@ spec:
          - exposedPort: 13132
          - exposedPort: 13133
          - exposedPort: 8080
+         - exposedPort: 9003
      memoryLimit: "2Gi"
